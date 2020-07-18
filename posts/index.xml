@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 丁玮的小屋</title>
+    <link>http://DW-cmd-01.github.io/posts/</link>
+    <description>Recent content in Posts on 丁玮的小屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Sat, 18 Jul 2020 14:18:33 +0800</lastBuildDate>
+    
+	<atom:link href="http://DW-cmd-01.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的第一篇博客</title>
+      <link>http://DW-cmd-01.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 18 Jul 2020 14:18:33 +0800</pubDate>
+      
+      <guid>http://DW-cmd-01.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>我的第一篇博客 这是我的第一篇博客。</description>
+    </item>
+    
+  </channel>
+</rss>
